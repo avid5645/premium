@@ -1,4 +1,16 @@
 {
-"nama": "admin",
-"apikey": "bsu92nsuo2wp"
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "hobbies": ["running", "sky diving", "singing"],
+    "age": 35,
+    "children": [
+        {
+            "firstName": "Alice",
+            "age": 6
+        },
+        {
+            "firstName": "Bob",
+            "age": 8
+        }
+    ]
 }
